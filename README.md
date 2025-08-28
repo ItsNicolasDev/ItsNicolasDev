@@ -2,8 +2,8 @@
 
 ![Status](https://img.shields.io/badge/Freelance-Disponible-brightgreen)
 ![Stack](https://img.shields.io/badge/Stack-Fullstack_&_DevOps-blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nciolas-nadé)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nicolas.dev-informational)](https://nicolas.tibuko.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/nicolas-nadé)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicolas.tibuko.com-informational)](https://nicolas.tibuko.com)
 
 
 
