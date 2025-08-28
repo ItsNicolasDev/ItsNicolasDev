@@ -1,6 +1,8 @@
 # 👋 Salut, moi c’est Nicolas
 
 ![Status](https://img.shields.io/badge/Freelance-Available-brightgreen)
+![Stack](https://img.shields.io/badge/Stack-Fullstack_&_DevOps-blue)
+
 
 🎓 Ingénieur en développement logiciel, spécialisé en **fullstack & DevOps**  
 🧑‍💻 Freelance basé à Rennes — j’aide les entreprises à transformer leurs idées en solutions techniques concrètes  
