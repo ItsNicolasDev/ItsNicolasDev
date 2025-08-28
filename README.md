@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Nicolas
 
-![Status](https://img.shields.io/badge/Freelance-Available-brightgreen)
+![Status](https://img.shields.io/badge/Freelance-Disponible-brightgreen)
 ![Stack](https://img.shields.io/badge/Stack-Fullstack_&_DevOps-blue)
 
 
