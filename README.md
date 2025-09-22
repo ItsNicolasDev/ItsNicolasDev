@@ -9,7 +9,7 @@
 
 
 🎓 Ingénieur en développement logiciel, spécialisé en **fullstack & DevOps**  
-🧑‍💻 Freelance basé à Rennes — j’aide les entreprises à transformer leurs idées en solutions techniques concrètes  
+🧑‍💻 Freelance basé à Rennes, j’aide les entreprises à transformer leurs idées en solutions techniques concrètes  
 🚀 Stack : Python, React, Angular, Docker, Kubernetes, CI/CD  
 
 ---
